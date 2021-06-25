@@ -13,3 +13,5 @@ function Main () {
 function BtBuoi3 () {
     console.log('BtBuoi3');
 }
+
+//Bt Buoi 3
