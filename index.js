@@ -6,5 +6,5 @@ function homeWork () {
 }
 
 function Main () {
-    console.log('doneBT1');
+    console.log('doneBT2');
 }
